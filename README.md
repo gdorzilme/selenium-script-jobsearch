@@ -1,6 +1,6 @@
 # Selenium/Python Script - QA Job search on Eluta
 
-This is simnple Selenium WebDriver script written in Python which demonstrates skills in automated QA testing and browser automation. In this scenario, the script opens the eluta.ca/search_advanced page and searches for all QA jobs in the Ottawa, ON area. Once the results are found, the script then sorts the results by the most recent posted jobs. The script was designed to work by automating the Mozilla Firefox browser (using 'geckodriver'). 
+This is simple Selenium WebDriver script written in Python which demonstrates skills in automated QA testing and browser automation. In this scenario, the script opens the eluta.ca/search_advanced page and searches for all QA jobs in the Ottawa, ON area. Once the results are found, the script then sorts the results by the most recent posted jobs. The script was designed to work by automating the Mozilla Firefox browser (using 'geckodriver'). 
 
 Instructions
 1. Ensure that you have Python3 installed on your system
